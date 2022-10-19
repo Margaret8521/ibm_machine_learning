@@ -1,1 +1,3 @@
-Applied Data Science Capstone Folder
+# Applied Data Science Capstone 
+
+Complete Applied Data Science Capstone course
